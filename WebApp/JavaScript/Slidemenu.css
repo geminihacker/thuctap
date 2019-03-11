@@ -1,0 +1,118 @@
+﻿.jqueryslidemenu{
+margin: 0 auto;
+width: 1100px;
+height:40px;
+/*background: url("../Images/bgmenu.gif") repeat-x scroll 0 0 transparent;*/
+background: #2E2E2E;
+text-transform: uppercase;
+font-weight: bold;
+}
+
+.jqueryslidemenu ul{
+margin: 0;
+padding: 0;
+list-style-type: none;
+/*background: url("../Images/bgmenu1234.jpg") repeat-x scroll 0 0 transparent;*/
+
+/*height: 52px;*/
+padding-left:4px;
+}
+
+/*Top level list items*/
+.jqueryslidemenu ul li{
+position: relative;
+display: inline;
+float: left;
+
+}
+
+/*Top level menu link items style*/
+.jqueryslidemenu ul li a{
+display: block;
+/*background: #414141; /*background of tabs (default state)*/
+color: #ffffff;
+padding: 13px 18px;
+text-decoration: none;
+font: 14px/14px Fjalla One;
+}
+
+* html .jqueryslidemenu ul li a{ /*IE6 hack to get sub menu links to behave correctly*/
+display: inline-block;
+}
+
+.jqueryslidemenu ul li a:link, .jqueryslidemenu ul li a:visited{
+/*color: white;*/
+}
+
+.jqueryslidemenu ul li a:hover{
+	background: none repeat scroll 0 0 #FF6839;
+    color: #FFFFFF;
+    border-left: 1px solid #ffffff;
+    border-right: 1px solid #ffffff;
+}
+	
+/*1st sub level menu*/
+.jqueryslidemenu ul li ul{
+position: absolute;
+left: 0;
+display: block;
+visibility: hidden;
+z-index:1000;
+}
+
+/*Sub level menu list items (undo style from Top level List Items)*/
+.jqueryslidemenu ul li ul li{
+display: list-item;
+float: none;
+}
+
+/*All subsequent sub menu levels vertical offset after 1st level sub menu */
+.jqueryslidemenu ul li ul li ul{
+top: 0;
+}
+
+/* Sub level menu links style */
+.jqueryslidemenu ul li ul li a{
+font: normal 12px Verdana;
+width: 230px; /*width of sub menus*/
+padding: 5px;
+border-top-width: 0;
+/*border-bottom: 1px solid #cccccc;*/
+/*background-color:#cdcdcd;*/
+text-align: left;
+padding-left:5px;
+margin:0px 0;
+/*background:#4A70AD;*/
+color:white;
+/*background: url("../Images/bgmenu3.jpg") repeat-x scroll 0 0 transparent;*/
+}
+
+.jqueryslidemenuz ul li ul li a:hover{ /*sub menus hover style*/
+/*background: #eff9ff;*/
+	color: white;
+}
+.jqueryslidemenuz ul li ul li a:hover span{ /*sub menus hover style*/
+    
+    /*background: url("../Images/submenu-selected-top.jpg") scroll 0 0 transparent;*/
+}
+/* ######### CSS classes applied to down and right arrow images  ######### */
+
+.downarrowclass{
+position: absolute;
+top: 20px;
+right: 7px;
+}
+
+.rightarrowclass{
+position: absolute;
+top: 6px;
+right: 5px;
+}
+.menu1
+{
+   background: #E4431A;
+}
+.menu1 li
+{
+    background: url("../Images/nav_dropdown_sep.gif") repeat-x scroll left bottom transparent;
+ }

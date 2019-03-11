@@ -1,0 +1,295 @@
+C:\Users\dai\Documents\Visual Studio 2008\Projects\MyNews\MyNews\bin\MyNews.dll
+C:\Users\dai\Documents\Visual Studio 2008\Projects\MyNews\MyNews\bin\MyNews.pdb
+C:\Users\dai\Documents\Visual Studio 2008\Projects\MyNews\MyNews\bin\DotnetGallery.dll
+C:\Users\dai\Documents\Visual Studio 2008\Projects\MyNews\MyNews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dai\Documents\Visual Studio 2008\Projects\MyNews\MyNews\obj\Debug\MyNews.dll.licenses
+C:\Users\dai\Documents\Visual Studio 2008\Projects\MyNews\MyNews\obj\Debug\MyNews.dll
+C:\Users\dai\Documents\Visual Studio 2008\Projects\MyNews\MyNews\obj\Debug\MyNews.pdb
+C:\Users\dai\Documents\Visual Studio 2008\Projects\MyNews\MyNews\MyNews\bin\MyNews.dll
+C:\Users\dai\Documents\Visual Studio 2008\Projects\MyNews\MyNews\MyNews\bin\MyNews.pdb
+C:\Users\dai\Documents\Visual Studio 2008\Projects\MyNews\MyNews\MyNews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dai\Documents\Visual Studio 2008\Projects\MyNews\MyNews\MyNews\obj\Debug\MyNews.dll.licenses
+C:\Users\dai\Documents\Visual Studio 2008\Projects\MyNews\MyNews\MyNews\obj\Debug\MyNews.dll
+C:\Users\dai\Documents\Visual Studio 2008\Projects\MyNews\MyNews\MyNews\obj\Debug\MyNews.pdb
+C:\Users\dai\Documents\Visual Studio 2008\Projects\MyNews\MyNews\MyNews\MyNews\bin\MyNews.dll
+C:\Users\dai\Documents\Visual Studio 2008\Projects\MyNews\MyNews\MyNews\MyNews\bin\MyNews.pdb
+C:\Users\dai\Documents\Visual Studio 2008\Projects\MyNews\MyNews\MyNews\MyNews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dai\Documents\Visual Studio 2008\Projects\MyNews\MyNews\MyNews\MyNews\obj\Debug\MyNews.dll.licenses
+C:\Users\dai\Documents\Visual Studio 2008\Projects\MyNews\MyNews\MyNews\MyNews\obj\Debug\MyNews.dll
+C:\Users\dai\Documents\Visual Studio 2008\Projects\MyNews\MyNews\MyNews\MyNews\obj\Debug\MyNews.pdb
+C:\Users\dai\Documents\Visual Studio 2008\Projects\truonghai\MyNews\MyNews\MyNews\bin\MyNews.dll
+C:\Users\dai\Documents\Visual Studio 2008\Projects\truonghai\MyNews\MyNews\MyNews\bin\MyNews.pdb
+C:\Users\dai\Documents\Visual Studio 2008\Projects\truonghai\MyNews\MyNews\MyNews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dai\Documents\Visual Studio 2008\Projects\truonghai\MyNews\MyNews\MyNews\obj\Debug\MyNews.dll.licenses
+C:\Users\dai\Documents\Visual Studio 2008\Projects\truonghai\MyNews\MyNews\MyNews\obj\Debug\MyNews.dll
+C:\Users\dai\Documents\Visual Studio 2008\Projects\truonghai\MyNews\MyNews\MyNews\obj\Debug\MyNews.pdb
+C:\Users\dai\Documents\Visual Studio 2008\Projects\truonghai\truonghai\MyNews\bin\MyNews.dll
+C:\Users\dai\Documents\Visual Studio 2008\Projects\truonghai\truonghai\MyNews\bin\MyNews.pdb
+C:\Users\dai\Documents\Visual Studio 2008\Projects\truonghai\truonghai\MyNews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dai\Documents\Visual Studio 2008\Projects\truonghai\truonghai\MyNews\obj\Debug\MyNews.dll.licenses
+C:\Users\dai\Documents\Visual Studio 2008\Projects\truonghai\truonghai\MyNews\obj\Debug\MyNews.dll
+C:\Users\dai\Documents\Visual Studio 2008\Projects\truonghai\truonghai\MyNews\obj\Debug\MyNews.pdb
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\truongphat\truonghai\MyNews\bin\MyNews.dll
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\truongphat\truonghai\MyNews\bin\MyNews.pdb
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\truongphat\truonghai\MyNews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\truongphat\truonghai\MyNews\obj\Debug\MyNews.dll.licenses
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\truongphat\truonghai\MyNews\obj\Debug\MyNews.dll
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\truongphat\truonghai\MyNews\obj\Debug\MyNews.pdb
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\tuvanthietke\MyNews\bin\MyNews.dll
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\tuvanthietke\MyNews\bin\MyNews.pdb
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\tuvanthietke\MyNews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\tuvanthietke\MyNews\obj\Debug\MyNews.dll.licenses
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\tuvanthietke\MyNews\obj\Debug\MyNews.dll
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\tuvanthietke\MyNews\obj\Debug\MyNews.pdb
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\bitis\MyNews\bin\MyNews.dll
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\bitis\MyNews\bin\MyNews.pdb
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\bitis\MyNews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\bitis\MyNews\obj\Debug\MyNews.dll.licenses
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\bitis\MyNews\obj\Debug\MyNews.dll
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\bitis\MyNews\obj\Debug\MyNews.pdb
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Shop\MyNews\bin\MyNews.dll
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Shop\MyNews\bin\MyNews.pdb
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Shop\MyNews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Shop\MyNews\obj\Debug\MyNews.dll.licenses
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Shop\MyNews\obj\Debug\MyNews.dll
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Shop\MyNews\obj\Debug\MyNews.pdb
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\hodiepmobile\MyNews\bin\MyNews.dll
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\hodiepmobile\MyNews\bin\MyNews.pdb
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\hodiepmobile\MyNews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\hodiepmobile\MyNews\obj\Debug\MyNews.dll.licenses
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\hodiepmobile\MyNews\obj\Debug\MyNews.dll
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\hodiepmobile\MyNews\obj\Debug\MyNews.pdb
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Thoitrang\MyNews\bin\MyNews.dll
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Thoitrang\MyNews\bin\MyNews.pdb
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Thoitrang\MyNews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Thoitrang\MyNews\obj\Debug\MyNews.dll.licenses
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Thoitrang\MyNews\obj\Debug\MyNews.dll
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Thoitrang\MyNews\obj\Debug\MyNews.pdb
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\KDC\MyNews\bin\MyNews.dll
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\KDC\MyNews\bin\MyNews.pdb
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\KDC\MyNews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\KDC\MyNews\obj\Debug\MyNews.dll.licenses
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\KDC\MyNews\obj\Debug\MyNews.dll
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\KDC\MyNews\obj\Debug\MyNews.pdb
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Copy of KDC\MyNews\bin\MyNews.dll
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Copy of KDC\MyNews\bin\MyNews.pdb
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Copy of KDC\MyNews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Copy of KDC\MyNews\obj\Debug\MyNews.dll.licenses
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Copy of KDC\MyNews\obj\Debug\MyNews.dll
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Copy of KDC\MyNews\obj\Debug\MyNews.pdb
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Webdidong moi\MyNews\bin\MyNews.dll
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Webdidong moi\MyNews\bin\MyNews.pdb
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Webdidong moi\MyNews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Webdidong moi\MyNews\obj\Debug\MyNews.dll.licenses
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Webdidong moi\MyNews\obj\Debug\MyNews.dll
+C:\Users\daitc\Documents\Visual Studio 2008\Projects\Webdidong moi\MyNews\obj\Debug\MyNews.pdb
+D:\New folder\C\Visual Studio 2008\Projects\Webdidong moi\MyNews\bin\MyNews.dll
+D:\New folder\C\Visual Studio 2008\Projects\Webdidong moi\MyNews\bin\MyNews.pdb
+D:\New folder\C\Visual Studio 2008\Projects\Webdidong moi\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\New folder\C\Visual Studio 2008\Projects\Webdidong moi\MyNews\obj\Debug\MyNews.dll.licenses
+D:\New folder\C\Visual Studio 2008\Projects\Webdidong moi\MyNews\obj\Debug\MyNews.dll
+D:\New folder\C\Visual Studio 2008\Projects\Webdidong moi\MyNews\obj\Debug\MyNews.pdb
+D:\New folder\C\Visual Studio 2008\Projects\Web đồ gỗ\MyNews\bin\MyNews.dll
+D:\New folder\C\Visual Studio 2008\Projects\Web đồ gỗ\MyNews\bin\MyNews.pdb
+D:\New folder\C\Visual Studio 2008\Projects\Web đồ gỗ\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\New folder\C\Visual Studio 2008\Projects\Web đồ gỗ\MyNews\obj\Debug\MyNews.dll.licenses
+D:\New folder\C\Visual Studio 2008\Projects\Web đồ gỗ\MyNews\obj\Debug\MyNews.dll
+D:\New folder\C\Visual Studio 2008\Projects\Web đồ gỗ\MyNews\obj\Debug\MyNews.pdb
+D:\New folder\C\Visual Studio 2008\Projects\wetec.vn\MyNews\bin\MyNews.dll
+D:\New folder\C\Visual Studio 2008\Projects\wetec.vn\MyNews\bin\MyNews.pdb
+D:\New folder\C\Visual Studio 2008\Projects\wetec.vn\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\New folder\C\Visual Studio 2008\Projects\wetec.vn\MyNews\obj\Debug\MyNews.dll.licenses
+D:\New folder\C\Visual Studio 2008\Projects\wetec.vn\MyNews\obj\Debug\MyNews.dll
+D:\New folder\C\Visual Studio 2008\Projects\wetec.vn\MyNews\obj\Debug\MyNews.pdb
+D:\New folder\C\Visual Studio 2008\Projects\web quang cao\MyNews\bin\MyNews.dll
+D:\New folder\C\Visual Studio 2008\Projects\web quang cao\MyNews\bin\MyNews.pdb
+D:\New folder\C\Visual Studio 2008\Projects\web quang cao\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\New folder\C\Visual Studio 2008\Projects\web quang cao\MyNews\obj\Debug\MyNews.dll.licenses
+D:\New folder\C\Visual Studio 2008\Projects\web quang cao\MyNews\obj\Debug\MyNews.dll
+D:\New folder\C\Visual Studio 2008\Projects\web quang cao\MyNews\obj\Debug\MyNews.pdb
+D:\New folder\C\Visual Studio 2008\Projects\web quang cao - Copy\MyNews\bin\MyNews.dll
+D:\New folder\C\Visual Studio 2008\Projects\web quang cao - Copy\MyNews\bin\MyNews.pdb
+D:\New folder\C\Visual Studio 2008\Projects\web quang cao - Copy\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\New folder\C\Visual Studio 2008\Projects\web quang cao - Copy\MyNews\obj\Debug\MyNews.dll.licenses
+D:\New folder\C\Visual Studio 2008\Projects\web quang cao - Copy\MyNews\obj\Debug\MyNews.dll
+D:\New folder\C\Visual Studio 2008\Projects\web quang cao - Copy\MyNews\obj\Debug\MyNews.pdb
+D:\New folder\C\Visual Studio 2008\Projects\web moto dien\MyNews\bin\MyNews.dll
+D:\New folder\C\Visual Studio 2008\Projects\web moto dien\MyNews\bin\MyNews.pdb
+D:\New folder\C\Visual Studio 2008\Projects\web moto dien\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\New folder\C\Visual Studio 2008\Projects\web moto dien\MyNews\obj\Debug\MyNews.dll.licenses
+D:\New folder\C\Visual Studio 2008\Projects\web moto dien\MyNews\obj\Debug\MyNews.dll
+D:\New folder\C\Visual Studio 2008\Projects\web moto dien\MyNews\obj\Debug\MyNews.pdb
+D:\New folder\C\Visual Studio 2008\Projects\web anthinh\MyNews\bin\MyNews.dll
+D:\New folder\C\Visual Studio 2008\Projects\web anthinh\MyNews\bin\MyNews.pdb
+D:\New folder\C\Visual Studio 2008\Projects\web anthinh\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\New folder\C\Visual Studio 2008\Projects\web anthinh\MyNews\obj\Debug\MyNews.dll.licenses
+D:\New folder\C\Visual Studio 2008\Projects\web anthinh\MyNews\obj\Debug\MyNews.dll
+D:\New folder\C\Visual Studio 2008\Projects\web anthinh\MyNews\obj\Debug\MyNews.pdb
+D:\setup\web anthinh\web anthinh\MyNews\bin\MyNews.dll
+D:\setup\web anthinh\web anthinh\MyNews\bin\MyNews.pdb
+D:\setup\web anthinh\web anthinh\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\setup\web anthinh\web anthinh\MyNews\obj\Debug\MyNews.dll.licenses
+D:\setup\web anthinh\web anthinh\MyNews\obj\Debug\MyNews.dll
+D:\setup\web anthinh\web anthinh\MyNews\obj\Debug\MyNews.pdb
+D:\web\web anthinh\web anthinh\MyNews\bin\MyNews.dll
+D:\web\web anthinh\web anthinh\MyNews\bin\MyNews.pdb
+D:\web\web anthinh\web anthinh\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\web\web anthinh\web anthinh\MyNews\obj\Debug\MyNews.dll.licenses
+D:\web\web anthinh\web anthinh\MyNews\obj\Debug\MyNews.dll
+D:\web\web anthinh\web anthinh\MyNews\obj\Debug\MyNews.pdb
+D:\setup\web anthinh\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\setup\web anthinh\MyNews\obj\Debug\MyNews.dll.licenses
+D:\setup\web anthinh\MyNews\bin\MyNews.dll
+D:\setup\web anthinh\MyNews\bin\MyNews.pdb
+D:\setup\web anthinh\MyNews\obj\Debug\MyNews.dll
+D:\setup\web anthinh\MyNews\obj\Debug\MyNews.pdb
+D:\setup\New folder\web anthinh1\web anthinh\MyNews\bin\MyNews.dll
+D:\setup\New folder\web anthinh1\web anthinh\MyNews\bin\MyNews.pdb
+D:\setup\New folder\web anthinh1\web anthinh\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\setup\New folder\web anthinh1\web anthinh\MyNews\obj\Debug\MyNews.dll.licenses
+D:\setup\New folder\web anthinh1\web anthinh\MyNews\obj\Debug\MyNews.dll
+D:\setup\New folder\web anthinh1\web anthinh\MyNews\obj\Debug\MyNews.pdb
+D:\setup\New folder\web anthinh1 - Copy\web anthinh\MyNews\bin\MyNews.dll
+D:\setup\New folder\web anthinh1 - Copy\web anthinh\MyNews\bin\MyNews.pdb
+D:\setup\New folder\web anthinh1 - Copy\web anthinh\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\setup\New folder\web anthinh1 - Copy\web anthinh\MyNews\obj\Debug\MyNews.dll.licenses
+D:\setup\New folder\web anthinh1 - Copy\web anthinh\MyNews\obj\Debug\MyNews.dll
+D:\setup\New folder\web anthinh1 - Copy\web anthinh\MyNews\obj\Debug\MyNews.pdb
+D:\setup\New folder\duong tuan\web anthinh\MyNews\bin\MyNews.dll
+D:\setup\New folder\duong tuan\web anthinh\MyNews\bin\MyNews.pdb
+D:\setup\New folder\duong tuan\web anthinh\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\setup\New folder\duong tuan\web anthinh\MyNews\obj\Debug\MyNews.dll.licenses
+D:\setup\New folder\duong tuan\web anthinh\MyNews\obj\Debug\MyNews.dll
+D:\setup\New folder\duong tuan\web anthinh\MyNews\obj\Debug\MyNews.pdb
+D:\setup\New folder\Cat tuong\MyNews\bin\MyNews.dll
+D:\setup\New folder\Cat tuong\MyNews\bin\MyNews.pdb
+D:\setup\New folder\Cat tuong\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\setup\New folder\Cat tuong\MyNews\obj\Debug\MyNews.dll.licenses
+D:\setup\New folder\Cat tuong\MyNews\obj\Debug\MyNews.dll
+D:\setup\New folder\Cat tuong\MyNews\obj\Debug\MyNews.pdb
+D:\setup\New folder\Cat tuong - Copy\MyNews\bin\MyNews.dll
+D:\setup\New folder\Cat tuong - Copy\MyNews\bin\MyNews.pdb
+D:\setup\New folder\Cat tuong - Copy\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\setup\New folder\Cat tuong - Copy\MyNews\obj\Debug\MyNews.dll.licenses
+D:\setup\New folder\Cat tuong - Copy\MyNews\obj\Debug\MyNews.dll
+D:\setup\New folder\Cat tuong - Copy\MyNews\obj\Debug\MyNews.pdb
+D:\vuong phat\MyNews\bin\MyNews.dll
+D:\vuong phat\MyNews\bin\MyNews.pdb
+D:\vuong phat\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\vuong phat\MyNews\obj\Debug\MyNews.dll.licenses
+D:\vuong phat\MyNews\obj\Debug\MyNews.dll
+D:\vuong phat\MyNews\obj\Debug\MyNews.pdb
+D:\vuong phat - Copy\MyNews\bin\MyNews.dll
+D:\vuong phat - Copy\MyNews\bin\MyNews.pdb
+D:\vuong phat - Copy\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\vuong phat - Copy\MyNews\obj\Debug\MyNews.dll.licenses
+D:\vuong phat - Copy\MyNews\obj\Debug\MyNews.dll
+D:\vuong phat - Copy\MyNews\obj\Debug\MyNews.pdb
+D:\setup\New folder\newsun\vuong phat - Copy\MyNews\bin\MyNews.dll
+D:\setup\New folder\newsun\vuong phat - Copy\MyNews\bin\MyNews.pdb
+D:\setup\New folder\newsun\vuong phat - Copy\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\setup\New folder\newsun\vuong phat - Copy\MyNews\obj\Debug\MyNews.dll.licenses
+D:\setup\New folder\newsun\vuong phat - Copy\MyNews\obj\Debug\MyNews.dll
+D:\setup\New folder\newsun\vuong phat - Copy\MyNews\obj\Debug\MyNews.pdb
+C:\Users\daitc\Desktop\newsun\vuong phat - Copy\MyNews\bin\MyNews.dll
+C:\Users\daitc\Desktop\newsun\vuong phat - Copy\MyNews\bin\MyNews.pdb
+C:\Users\daitc\Desktop\newsun\vuong phat - Copy\MyNews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daitc\Desktop\newsun\vuong phat - Copy\MyNews\obj\Debug\MyNews.dll.licenses
+C:\Users\daitc\Desktop\newsun\vuong phat - Copy\MyNews\obj\Debug\MyNews.dll
+C:\Users\daitc\Desktop\newsun\vuong phat - Copy\MyNews\obj\Debug\MyNews.pdb
+C:\Users\daitc\Documents\Downloads\Compressed\newsun\vuong phat - Copy\MyNews\bin\MyNews.dll
+C:\Users\daitc\Documents\Downloads\Compressed\newsun\vuong phat - Copy\MyNews\bin\MyNews.pdb
+C:\Users\daitc\Documents\Downloads\Compressed\newsun\vuong phat - Copy\MyNews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daitc\Documents\Downloads\Compressed\newsun\vuong phat - Copy\MyNews\obj\Debug\MyNews.dll.licenses
+C:\Users\daitc\Documents\Downloads\Compressed\newsun\vuong phat - Copy\MyNews\obj\Debug\MyNews.dll
+C:\Users\daitc\Documents\Downloads\Compressed\newsun\vuong phat - Copy\MyNews\obj\Debug\MyNews.pdb
+D:\euro window\code\MyNews\bin\MyNews.dll
+D:\euro window\code\MyNews\bin\MyNews.pdb
+D:\euro window\code\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\euro window\code\MyNews\obj\Debug\MyNews.dll.licenses
+D:\euro window\code\MyNews\obj\Debug\MyNews.dll
+D:\euro window\code\MyNews\obj\Debug\MyNews.pdb
+D:\Web all\euro window\code\MyNews\bin\MyNews.dll
+D:\Web all\euro window\code\MyNews\bin\MyNews.pdb
+D:\Web all\euro window\code\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\Web all\euro window\code\MyNews\obj\Debug\MyNews.dll.licenses
+D:\Web all\euro window\code\MyNews\obj\Debug\MyNews.dll
+D:\Web all\euro window\code\MyNews\obj\Debug\MyNews.pdb
+D:\setup\euro window\code\MyNews\bin\MyNews.dll
+D:\setup\euro window\code\MyNews\bin\MyNews.pdb
+D:\setup\euro window\code\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\setup\euro window\code\MyNews\obj\Debug\MyNews.dll.licenses
+D:\setup\euro window\code\MyNews\obj\Debug\MyNews.dll
+D:\setup\euro window\code\MyNews\obj\Debug\MyNews.pdb
+D:\setup\euro window - Copy\code\MyNews\bin\MyNews.dll
+D:\setup\euro window - Copy\code\MyNews\bin\MyNews.pdb
+D:\setup\euro window - Copy\code\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\setup\euro window - Copy\code\MyNews\obj\Debug\MyNews.dll.licenses
+D:\setup\euro window - Copy\code\MyNews\obj\Debug\MyNews.dll
+D:\setup\euro window - Copy\code\MyNews\obj\Debug\MyNews.pdb
+C:\Users\daitc\Desktop\khoangsan\code\MyNews\bin\MyNews.dll
+C:\Users\daitc\Desktop\khoangsan\code\MyNews\bin\MyNews.pdb
+C:\Users\daitc\Desktop\khoangsan\code\MyNews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daitc\Desktop\khoangsan\code\MyNews\obj\Debug\MyNews.dll.licenses
+C:\Users\daitc\Desktop\khoangsan\code\MyNews\obj\Debug\MyNews.dll
+C:\Users\daitc\Desktop\khoangsan\code\MyNews\obj\Debug\MyNews.pdb
+D:\khoangsan_2\khoangsan\code\MyNews\bin\MyNews.dll
+D:\khoangsan_2\khoangsan\code\MyNews\bin\MyNews.pdb
+D:\khoangsan_2\khoangsan\code\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\khoangsan_2\khoangsan\code\MyNews\obj\Debug\MyNews.dll.licenses
+D:\khoangsan_2\khoangsan\code\MyNews\obj\Debug\MyNews.dll
+D:\khoangsan_2\khoangsan\code\MyNews\obj\Debug\MyNews.pdb
+E:\Lich1\khoangsan_2\khoangsan_2\khoangsan\code\MyNews\bin\MyNews.dll
+E:\Lich1\khoangsan_2\khoangsan_2\khoangsan\code\MyNews\bin\MyNews.pdb
+E:\Lich1\khoangsan_2\khoangsan_2\khoangsan\code\MyNews\obj\Debug\ResolveAssemblyReference.cache
+E:\Lich1\khoangsan_2\khoangsan_2\khoangsan\code\MyNews\obj\Debug\MyNews.dll.licenses
+E:\Lich1\khoangsan_2\khoangsan_2\khoangsan\code\MyNews\obj\Debug\MyNews.dll
+E:\Lich1\khoangsan_2\khoangsan_2\khoangsan\code\MyNews\obj\Debug\MyNews.pdb
+E:\SW\temp\khoangsan\code\MyNews\bin\MyNews.dll
+E:\SW\temp\khoangsan\code\MyNews\bin\MyNews.pdb
+E:\SW\temp\khoangsan\code\MyNews\obj\Debug\ResolveAssemblyReference.cache
+E:\SW\temp\khoangsan\code\MyNews\obj\Debug\MyNews.dll.licenses
+E:\SW\temp\khoangsan\code\MyNews\obj\Debug\MyNews.dll
+E:\SW\temp\khoangsan\code\MyNews\obj\Debug\MyNews.pdb
+E:\SW\temp\code\MyNews\bin\MyNews.dll
+E:\SW\temp\code\MyNews\bin\MyNews.pdb
+E:\SW\temp\code\MyNews\obj\Debug\ResolveAssemblyReference.cache
+E:\SW\temp\code\MyNews\obj\Debug\MyNews.dll.licenses
+E:\SW\temp\code\MyNews\obj\Debug\MyNews.dll
+E:\SW\temp\code\MyNews\obj\Debug\MyNews.pdb
+C:\Users\daitc\Documents\Downloads\Compressed\code_khoangsananhson\MyNews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daitc\Documents\Downloads\Compressed\code_khoangsananhson\MyNews\obj\Debug\MyNews.dll.licenses
+C:\Users\daitc\Documents\Downloads\Compressed\code_khoangsananhson\MyNews\bin\MyNews.dll
+C:\Users\daitc\Documents\Downloads\Compressed\code_khoangsananhson\MyNews\bin\MyNews.pdb
+C:\Users\daitc\Documents\Downloads\Compressed\code_khoangsananhson\MyNews\obj\Debug\MyNews.dll
+C:\Users\daitc\Documents\Downloads\Compressed\code_khoangsananhson\MyNews\obj\Debug\MyNews.pdb
+D:\web\web_packing\MyNews\bin\MyNews.dll
+D:\web\web_packing\MyNews\bin\MyNews.pdb
+D:\web\web_packing\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\web\web_packing\MyNews\obj\Debug\MyNews.dll.licenses
+D:\web\web_packing\MyNews\obj\Debug\MyNews.dll
+D:\web\web_packing\MyNews\obj\Debug\MyNews.pdb
+D:\packing\MyNews\bin\MyNews.dll
+D:\packing\MyNews\bin\MyNews.pdb
+D:\packing\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\packing\MyNews\obj\Debug\MyNews.dll.licenses
+D:\packing\MyNews\obj\Debug\MyNews.dll
+D:\packing\MyNews\obj\Debug\MyNews.pdb
+D:\setup\New folder\web_packing_backup\MyNews\bin\MyNews.dll
+D:\setup\New folder\web_packing_backup\MyNews\bin\MyNews.pdb
+D:\setup\New folder\web_packing_backup\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\setup\New folder\web_packing_backup\MyNews\obj\Debug\MyNews.dll.licenses
+D:\setup\New folder\web_packing_backup\MyNews\obj\Debug\MyNews.dll
+D:\setup\New folder\web_packing_backup\MyNews\obj\Debug\MyNews.pdb
+D:\setup\Website\web_packing_backup\MyNews\bin\MyNews.dll
+D:\setup\Website\web_packing_backup\MyNews\bin\MyNews.pdb
+D:\setup\Website\web_packing_backup\MyNews\obj\Debug\ResolveAssemblyReference.cache
+D:\setup\Website\web_packing_backup\MyNews\obj\Debug\MyNews.dll.licenses
+D:\setup\Website\web_packing_backup\MyNews\obj\Debug\MyNews.dll
+D:\setup\Website\web_packing_backup\MyNews\obj\Debug\MyNews.pdb
+D:\pk\MyNews\bin\MyNews.dll
+D:\pk\MyNews\bin\MyNews.pdb
+D:\pk\MyNews\obj\Debug\MyNews.csprojResolveAssemblyReference.cache
+D:\pk\MyNews\obj\Debug\MyNews.dll.licenses
+D:\pk\MyNews\obj\Debug\MyNews.dll
+D:\pk\MyNews\obj\Debug\MyNews.pdb

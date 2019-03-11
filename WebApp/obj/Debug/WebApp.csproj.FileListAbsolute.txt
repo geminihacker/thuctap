@@ -1,0 +1,20 @@
+c:\users\daitc\documents\visual studio 2013\Projects\WebApp\WebApp\bin\WebApp.dll.config
+c:\users\daitc\documents\visual studio 2013\Projects\WebApp\WebApp\bin\WebApp.dll
+c:\users\daitc\documents\visual studio 2013\Projects\WebApp\WebApp\bin\WebApp.pdb
+c:\users\daitc\documents\visual studio 2013\Projects\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+c:\users\daitc\documents\visual studio 2013\Projects\WebApp\WebApp\obj\Debug\WebApp.dll
+c:\users\daitc\documents\visual studio 2013\Projects\WebApp\WebApp\obj\Debug\WebApp.pdb
+E:\DAITC\Thuc_Tap\WebApp\bin\WebApp.dll.config
+E:\DAITC\Thuc_Tap\WebApp\bin\WebApp.dll
+E:\DAITC\Thuc_Tap\WebApp\bin\WebApp.pdb
+E:\DAITC\Thuc_Tap\WebApp\obj\Debug\WebApp.dll
+E:\DAITC\Thuc_Tap\WebApp\obj\Debug\WebApp.pdb
+E:\DAITC\Thuc_Tap\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Tuyen\Downloads\webapp\thuctap\WebApp\bin\WebApp.dll.config
+C:\Users\Tuyen\Downloads\webapp\thuctap\WebApp\bin\WebApp.dll
+C:\Users\Tuyen\Downloads\webapp\thuctap\WebApp\bin\WebApp.pdb
+C:\Users\Tuyen\Downloads\webapp\thuctap\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+C:\Users\Tuyen\Downloads\webapp\thuctap\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Tuyen\Downloads\webapp\thuctap\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\Users\Tuyen\Downloads\webapp\thuctap\WebApp\obj\Debug\WebApp.dll
+C:\Users\Tuyen\Downloads\webapp\thuctap\WebApp\obj\Debug\WebApp.pdb

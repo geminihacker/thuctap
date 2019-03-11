@@ -1,0 +1,202 @@
+﻿.RadPicker_Default a.rcTimePopup:hover, .RadPicker_Default a.rcTimePopup:focus, .RadPicker_Default a.rcTimePopup:active {
+    background-position: 0 !important;
+}
+
+._dropdown .RadComboBox_Default, .RadComboBox_Default .rcbInput, .RadComboBoxDropDown_Default, .RadComboBox_Default table {
+
+    /*color: #333;
+    font-size:14px;
+    font-family: inherit;*/
+    /*padding: 6px !important;*/
+    border-radius:4px;
+}
+
+._dropdown .RadComboBoxDropDown .rcbItem, .RadComboBoxDropDown .rcbHovered, .RadComboBoxDropDown .rcbDisabled, .RadComboBoxDropDown .rcbLoading, .RadComboBoxDropDown .rcbCheckAllItems, .RadComboBoxDropDown .rcbCheckAllItemsHovered
+{
+    padding:8px;
+}
+.paging{width:100%; text-align:center;}
+.paging ul{padding:0;margin:0;list-style:none;}
+.paging ul li{display:inline-block;margin:5px 2px; font:11px/24px Roboto}
+.paging ul li:hover a, .paging ul li.active a{background:#d14011;width:24px; height:24px; border-radius:24px; color:#fff}
+.paging ul li a{display:inline-block;width:24px; height:24px; border-radius:24px; background:#cecece; color:#333}
+.paging ul li a .fa{font-size:9px;height:24px;vertical-align:middle;line-height:24px; font-weight:normal}
+
+._RadAjax .raDiv{
+    background-image:url('/images/loading.gif');
+    position: relative;
+    z-index: 2;
+    background-color: transparent;
+    background-position: center center;
+    background-repeat: no-repeat;
+
+}
+._RadAjax .raDiv, .RadAjax .raColor {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+._RadAjax .raColor {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    background-image: none;
+    background-color: #e6e6e6; 
+    color: #767676;
+}
+._RadAjax .raTransp
+{
+    opacity:.6;-moz-opacity:.6;filter:alpha(opacity=60);
+    zoom: 1;
+}
+
+@media only screen and (max-width:768px)
+{
+ ._login
+{
+    width:100% !important;
+
+    /*margin-right: auto;
+    margin-left: auto;
+   
+    min-height:300px;
+    padding-top:50px;*/
+}
+}
+._login
+{
+    margin-right: auto;
+    margin-left: auto;
+    width:500px;
+    min-height:350px;
+    padding-top:100px;
+}
+.text-white
+{
+    color:#fff;
+}
+
+._bg-danger
+{
+    background:#f2dede;
+    color:#fff;
+}
+._bg-primary
+{
+    background:#f2dede;
+    color:#fff;
+}
+
+._bg-success
+{
+    background:#f2dede;
+    color:#fff;
+}
+
+._bg-information
+{
+    background:#d9edf7;
+    color:#fff;
+}
+
+._bg-warning
+{
+    background:#fcf8e3;
+    color:#fff;
+}
+.quahan
+{
+    background : #ffa366;
+}
+.lineThrough
+{
+    text-decoration: line-through;
+}
+.daitc .rgDataDiv 
+{
+height : auto !important ;
+border-right :1px solid  #00a4e3 !important;
+}
+
+.daitc .dnnGrid
+{
+height : auto !important ;
+border-right :1px solid  #00a4e3 !important;
+}
+
+.daitc .rgHeaderDiv
+{
+margin-right : 0px !important ;
+}
+
+.dropdowntree
+{
+    width:250px !important;
+}
+.dropdowntree .rddtInner
+{
+    height:26px !important;
+}
+.rddtPopup ,.rddtPopup_Default
+{
+    width:250px !important;
+}
+.rddtSlide, .rddtDropDownSlide
+{
+    width:250px  !important;
+}
+.griditem
+{
+    padding:5px !important;
+}
+
+.daitc_giaoviec .btn
+{
+ padding: 3px !important;
+}
+.daitc_giaoviec .rgDataDiv 
+{
+height : auto !important ;
+border-right :1px solid  #00a4e3 !important;
+}
+
+.daitc_giaoviec .dnnGrid
+{
+height : auto !important ;
+border-right :1px solid  #00a4e3 !important;
+}
+
+.daitc_giaoviec .rgHeaderDiv
+{
+margin-right : 0px !important ;
+}
+.tree-node
+{
+    color: red !important;
+    font-style: italic !important;
+}
+._hover a:hover
+{
+    color: #333 !important;
+}
+ .daitc_giaoviec .label{
+     
+     padding:0px !important;
+ }
+
+  .trangthai_ranh{
+     
+    background-color : #006600 !important;
+ }
+ .trangthai_ban{
+     
+    background-color : #ff0000 !important;
+ }
+ .daitc.btn-info.active,.btn-info:active,.open>.dropdown-toggle.btn-info
+{
+     color:#fff;
+     background-color:#d58512;
+     border-color:#985f0d
+ }

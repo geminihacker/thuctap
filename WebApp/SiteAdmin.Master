@@ -1,0 +1,90 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteAdmin.Master.cs" Inherits="MyNews.SiteAdmin" %>
+<%@ Register Src="~/usercontrol/admin_header.ascx" TagPrefix="uc1" TagName="header" %>
+<%@ Register Src="~/usercontrol/admin__menu.ascx" TagPrefix="uc2" TagName="menu" %>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <asp:ContentPlaceHolder ID="headerTitle" runat="server">
+
+   </asp:ContentPlaceHolder>
+  <!-- plugins:css -->
+  <link rel="stylesheet" href="../css/admin/vendors/iconfonts/mdi/css/materialdesignicons.min.css">
+  <link rel="stylesheet" href="../css/admin/vendors/css/vendor.bundle.base.css">
+  <link rel="stylesheet" href="../css/admin/vendors/css/vendor.bundle.addons.css">
+  <link href="../css/home.css" rel="stylesheet" />
+  <link href="../fonts/awesome/css/font-awesome.css" rel="stylesheet" />
+  <link rel="stylesheet" href="../css/admin/css/style.css">
+  <link rel="stylesheet" href="../css/admin/table/dataTables.bootstrap.min.css">
+  <link rel="shortcut icon" href="../css/admin/images/favicon.png" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/notify/0.4.2/styles/metro/notify-metro.css" />
+    <!-- plugins:js -->
+  <script src="../css/jquery.js"></script>
+  <script src="../css/bootstrap.min.js"></script>
+  <script src="../css/admin/vendors/js/vendor.bundle.base.js"></script>
+  <script src="../css/admin/vendors/js/vendor.bundle.addons.js"></script>
+  <script src="../css/admin/js/off-canvas.js"></script>
+  <script src="../css/admin/js/misc.js"></script>
+  <script src="../css/admin/js/dashboard.js"></script>
+  <script type="text/javascript" src="../css/admin/table/jquery.dataTables.min.js"></script>
+  <script type="text/javascript" src="../css/admin/table/dataTables.bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/notify/0.4.2/notify.min.js"></script>
+  <script type="text/javascript" src="../css/admin/table/dataTables.bootstrap.min.js"></script>
+   <script type="text/javascript" src="../css/angular.min.js"></script>
+  <script type="text/javascript">
+        $(document).ready(function () {
+            $('#MainContent_example').DataTable();
+        });
+      
+        function openModalAddEdit() {
+            $('#myMoEdit').modal({ backdrop: 'static', keyboard: false })
+            $('#myMoEdit').modal('show');
+        }
+        function openModalAddDelete() {
+            $('#myMoDelete').modal({ backdrop: 'static', keyboard: false })
+            $('#myMoDelete').modal('show');
+        }
+    </script>
+</head>
+
+<body>
+  <div class="container-scroller">
+    <!-- model header -->
+     <uc1:header ID="header" runat="server" />
+    <!-- partial -->
+    <div class="container-fluid page-body-wrapper">
+      <!-- model-menu  -->
+       <uc2:menu ID="menu" runat="server" />
+      <!-- model-main -->
+      <div class="main-panel">
+        <div class="content-wrapper">
+             <asp:ContentPlaceHolder ID="MainContent" runat="server">
+
+              </asp:ContentPlaceHolder>
+         
+        </div>
+        <!-- content-wrapper ends -->
+        <!-- partial:partials/_footer.html -->
+        <footer class="footer">
+          <div class="container-fluid clearfix">
+            <span class="text-muted d-block text-center text-sm-left d-sm-inline-block">Copyright © 2019
+              <a href="/Trangchu.aspx" >VNPT</a>. All rights reserved.</span>
+            <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">Nhóm thực tập
+              <i class="mdi mdi-heart text-danger"></i>
+            </span>
+          </div>
+        </footer>
+        <!-- partial -->
+      </div>
+      <!-- main-panel ends -->
+    </div>
+    <!-- page-body-wrapper ends -->
+  </div>
+  <!-- container-scroller -->
+  
+</body>
+
+</html>
