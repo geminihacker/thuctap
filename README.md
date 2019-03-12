@@ -1,2 +1,3 @@
 # thuctap
 # thuctap
+#Gemini

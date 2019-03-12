@@ -60,7 +60,7 @@
                   <a class="nav-link" href="/admin_ds_don_vi.aspx"><i class="fa fa-circle-o" style="padding-right:5px;font-size:9px;"></i> Danh mục đơn vị</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="/Admin/admin_loai_thietbi.aspx"><i class="fa fa-circle-o" style="padding-right:5px;font-size:9px;"></i> Danh mục nhà trạm</a>
+                  <a class="nav-link" href="../admin_ds_nhatram.aspx"><i class="fa fa-circle-o" style="padding-right:5px;font-size:9px;"></i> Danh mục nhà trạm</a>
                 </li>
                  <li class="nav-item">
                   <a class="nav-link" href="/Admin/admin_loai_thietbi.aspx"><i class="fa fa-circle-o" style="padding-right:5px;font-size:9px;"></i> Danh mục loại thiết bị</a>

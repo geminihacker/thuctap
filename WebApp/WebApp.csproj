@@ -74,6 +74,7 @@
     <Content Include="Admin\admin_add_Account.aspx" />
     <Content Include="Admin\admin_loai_thietbi.aspx" />
     <Content Include="admin_ds_don_vi.aspx" />
+    <Content Include="admin_ds_nhatram.aspx" />
     <Content Include="ckeditor\.htaccess" />
     <Content Include="ckeditor\CHANGES.md" />
     <Content Include="ckeditor\LICENSE.md" />
@@ -3402,11 +3403,20 @@
     <Compile Include="admin_ds_don_vi.aspx.designer.cs">
       <DependentUpon>admin_ds_don_vi.aspx</DependentUpon>
     </Compile>
+    <Compile Include="admin_ds_nhatram.aspx.cs">
+      <DependentUpon>admin_ds_nhatram.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="admin_ds_nhatram.aspx.designer.cs">
+      <DependentUpon>admin_ds_nhatram.aspx</DependentUpon>
+    </Compile>
     <Compile Include="BUS\BUS_DV.cs" />
     <Compile Include="BUS\BUS_LTB.cs" />
+    <Compile Include="BUS\BUS_NT.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="DAL\DAL_DV.cs" />
     <Compile Include="DAL\DAL_LTB.cs" />
+    <Compile Include="DAL\DAL_NT.cs" />
     <Compile Include="DangNhap.aspx.cs">
       <DependentUpon>DangNhap.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -3416,6 +3426,7 @@
     </Compile>
     <Compile Include="DTO\DTO_DV.cs" />
     <Compile Include="DTO\DTO_LTB.cs" />
+    <Compile Include="DTO\DTO_NT.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

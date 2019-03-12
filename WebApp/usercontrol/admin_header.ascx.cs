@@ -13,13 +13,13 @@ namespace WebApp.usercontrol
     public partial class admin_header : System.Web.UI.UserControl
     {
         Class1 db = new Class1();
-        String user = "";
+        String user1 = "";
         protected void Page_Load(object sender, EventArgs e)
         {
             if (Session["username"] != null)
             {
-                user = Session["username"].ToString();
-                string sql = "select Account.*,don_vi.ten_donvi from Account,don_vi where Account.id_donvi=don_vi.id_donvi and name_user='" + user + "'";
+                user1 = Session["username"].ToString();
+                string sql = "select Account.*,don_vi.ten_donvi from Account,don_vi where Account.id_donvi=don_vi.id_donvi and name_user='" + user1 + "'";
                 String name = "";
                 String huyen = "";
                 String avatar = "";

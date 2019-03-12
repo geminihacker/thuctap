@@ -18,23 +18,23 @@
                   <div class="col-md-6 col-xs-4 col-sm-4">
                       <div class="form-group">
                           <asp:DropDownList ID="SelectItem" runat="server" CssClass="form-control">
-                              <asp:ListItem Text="-- Tìm kiếm theo --" Value="true"></asp:ListItem>
-                              <asp:ListItem Text="Mã thiết bị" Value="true"></asp:ListItem>
-                              <asp:ListItem Text="Tên thiết bị" Value="false"></asp:ListItem>
-                              <asp:ListItem Text="Địa chỉ" Value="false"></asp:ListItem>
+                              <asp:ListItem Text="Mã đơn vị" Value="ma_donvi"></asp:ListItem>
+                              <asp:ListItem Text="Tên đơn vị" Value="ten_donvi"></asp:ListItem>
+                              <asp:ListItem Text="Địa chỉ" Value="dia_chi"></asp:ListItem>
+                             
                            </asp:DropDownList>
                       </div>
                   </div>
                   <div class="col-md-6 col-xs-12 col-sm-12">
                      <div class="form-group" id="form__search">
-                          <asp:TextBox ID="txt_search" runat="server" placeholder="Nhập từ khóa tìm kiếm" CssClass="form-control"></asp:TextBox>
-                         <asp:LinkButton ID="btnSearch" runat="server" CssClass="btn btn-success"><i class="fa fa-search"></i></asp:LinkButton>
+                          <asp:TextBox ID="txt_search" runat="server" placeholder="Nhập từ khóa tìm kiếm" CssClass="form-control" OnTextChanged="txt_search_TextChanged"></asp:TextBox>
+                         <asp:LinkButton ID="btnSearch" runat="server" CssClass="btn btn-success" OnClick="btnSearch_Click"><i class="fa fa-search"></i></asp:LinkButton>
                      </div>
                   </div>
               </div><!--search-->
          <div class="row">
              <div class="table-responsive">
-                 <asp:GridView ID="example" runat="server" CssClass="table table-bordered table-hover" style="width:100%" AutoGenerateColumns="False" onrowcommand="example_RowCommand">
+                 <asp:GridView ID="example" runat="server" CssClass="table table-bordered table-hover" style="width:100%" AutoGenerateColumns="False" onrowcommand="example_RowCommand" OnRowEditing="example_RowEditing" AllowSorting="true" OnSorting="example_Sorting">
                      <Columns>
                          <asp:BoundField DataField="ma_donvi" HeaderText="Mã đơn vị" SortExpression="ma_donvi" />
                          <asp:BoundField DataField="ten_donvi" HeaderText="Tên đơn vị" SortExpression="ten_donvi" />

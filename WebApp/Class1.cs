@@ -24,6 +24,19 @@ namespace MyNews
 {
     public  class Class1
     {
+        private static Class1 intance;
+
+        public static Class1 Intance
+        {
+            get 
+            {
+                if(intance == null)
+                {
+                    intance = new Class1();
+                }
+                return Class1.intance; }
+            private set { Class1.intance = value; }
+        }
         public static string conn = WebConfigurationManager.ConnectionStrings["ConnectionToMyNews"].ConnectionString;
         public SqlConnection con;
         public SqlCommand cmd;
@@ -80,6 +93,103 @@ namespace MyNews
             }
 
             return strBuilder.ToString();
+        }
+
+        public DataTable ExcuteQuerry(string querry, object[] parameter = null)
+        {
+            DataTable data = new DataTable();
+            using (SqlConnection connect = new SqlConnection(conn))
+            {
+                connect.Open();
+                SqlCommand command = new SqlCommand(querry, connect);
+
+                if (parameter != null)
+                {
+                    // toi uu lai chuoi parameteter khong con cac khoang trang
+
+                    string[] listPara = querry.Split(' ');
+
+                    int i = 0;
+                    foreach (string item in listPara)
+                    {
+                        // Kiem tra chuoi co parameter hay khong 
+                        // chuoi co dang stored procesudes
+                        if (item.Contains('@'))
+                        {
+                            command.Parameters.AddWithValue(item, parameter[i]);
+                            i++;
+                        }
+                    }
+                }
+
+                SqlDataAdapter adapter = new SqlDataAdapter(command);
+                adapter.Fill(data);
+                connect.Close();
+            }
+
+            return data;
+        }
+
+
+        // Tra ra so dong duoc lay du lieu
+        public int ExcuteNonQuerry(string querry, object[] parameter = null)
+        {
+            int data = 0;
+            using (SqlConnection connect = new SqlConnection(conn))
+            {
+                connect.Open();
+                SqlCommand command = new SqlCommand();
+
+                if (parameter != null)
+                {
+                    string[] listPara = querry.Split(' ');
+
+                    int i = 0;
+                    foreach (string item in listPara)
+                    {
+                        if (item.Contains('@'))
+                        {
+                            command.Parameters.AddWithValue(item, parameter[i]);
+                            i++;
+                        }
+                    }
+                }
+                data = command.ExecuteNonQuery();
+                connect.Close();
+
+            }
+
+            return data;
+        }
+
+        public object ExcuteScarla(string querry, object[] parameter = null)
+        {
+            object data = 0;
+            using (SqlConnection connect = new SqlConnection(conn))
+            {
+                connect.Open();
+                SqlCommand command = new SqlCommand();
+
+                if (parameter != null)
+                {
+                    string[] listPara = querry.Split(' ');
+
+                    int i = 0;
+                    foreach (string item in listPara)
+                    {
+                        if (item.Contains('@'))
+                        {
+                            command.Parameters.AddWithValue(item, parameter[i]);
+                            i++;
+                        }
+                    }
+                }
+
+                data = command.ExecuteScalar();
+                connect.Close();
+            }
+
+            return data;
         }
 
        
